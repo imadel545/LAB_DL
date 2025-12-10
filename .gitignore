@@ -1,0 +1,29 @@
+# Environnements virtuels
+eljeddaoui_venv/
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Fichiers système
+.DS_Store
+.vscode/
+tmp_download/
+
+# Données volumineuses
+fruits/
+emsi_knowledge_base/
+
+# Fichiers sensibles
+.env
+*.log
+
+# Modèles entraînés (trop gros pour Git)
+*.h5
+*.tflite
+*.pt
+*.pth
+*.onnx
+
+# Dossiers Git imbriqués
+LAB2/Lab_pneumonia/.git/

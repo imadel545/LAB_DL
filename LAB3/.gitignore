@@ -1,0 +1,15 @@
+# Variables sensibles
+.env
+.env.local
+*.env
+
+# Credentials
+*credentials*.json
+firebase*.json
+
+# Logs
+*.log
+
+# Cache Python
+__pycache__/
+*.pyc

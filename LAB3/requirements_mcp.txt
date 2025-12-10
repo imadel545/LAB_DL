@@ -1,0 +1,5 @@
+# MCP Integration pour EMSI-Bot
+
+mcp>=1.0.0
+asyncio
+python-dotenv
